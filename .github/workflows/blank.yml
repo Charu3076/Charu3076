@@ -266,7 +266,7 @@ jobs:
 
           echo "    await fetchIP(true);" >> continuous_visit_puppeteer.js
 
-          echo "    await visitWebsite('https://dileepa11.netlify.app');" >> continuous_visit_puppeteer.js
+          echo "    await visitWebsite('https://dileepaw.netlify.app');" >> continuous_visit_puppeteer.js
 
           echo "    await randomWait();" >> continuous_visit_puppeteer.js
 
